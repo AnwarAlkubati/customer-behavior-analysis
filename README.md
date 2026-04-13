@@ -1,5 +1,10 @@
 # Customer Behavior Analysis Dashboard
 
+## 📊 Dashboard Preview!
+
+[Dashboard](dashboard.png)
+
+
 ## 📊 Project Overview
 
 This project analyzes customer purchasing behavior using real-world e-commerce data. The goal is to identify patterns in customer activity, revenue distribution, and regional performance.
